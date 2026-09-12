@@ -46,6 +46,7 @@ dist/
 # Local data
 Images/
 Results/
+Data/
 
 # fichier test
 test*
